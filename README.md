@@ -18,3 +18,8 @@ Part 3: Combining the Strategies
 
 Part 4: Diversification Benefit
 - Demonstrated the diversification benefit of the fund by comparing its correlation with the S&P500 index ETF and determining the optimal weight for portfolio allocation.
+
+### Data files
+- Monthly_Stock_Returns.csv: includes monthly returns for a large number of stocks in the U.S. The variables include the firm identifier (permno), date, unadjusted end of month price (prc), monthly return (ret), and market capitalization (mcap)
+- Daily_Stock_Returns.csv: includes daily return for the stocks in our sample. The variables include the firm identifier (permno), date, and the monthly return (ret)
+- US_Policy_Uncertainty_Data.csv: includes the U.S. economic policy uncertainty index, which is based on the information from news papers.
