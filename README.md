@@ -16,7 +16,7 @@ Part 3: Combining the Strategies
 - Combined the three strategies to create an integrated fund, following specific rules for buying and shorting stocks.
 - Evaluated the performance of the integrated strategy and compared it to AQR's "Alternative Risk Premia Fund" (MUTF: QRPIX).
 
-Part 4: Diversification Benefit
+Part 4: Diversification Benefit Comparison
 - Demonstrated the diversification benefit of the fund by comparing its correlation with the S&P500 index ETF and determining the optimal weight for portfolio allocation.
 
 ### Data files
